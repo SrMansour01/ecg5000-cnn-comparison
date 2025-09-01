@@ -65,6 +65,8 @@ Gráficos de loss e acurácia durante o treinamento
 
 Matrizes de confusão para ambos os modelos
 
+Espectograma do dataset
+
 Relatórios de classificação detalhados
 
 Comparação de tempo de treinamento e inferência
